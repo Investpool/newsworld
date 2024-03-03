@@ -3,9 +3,9 @@ import "./body.css"
 
 export default function Body() {
 return (
-  <>
+  
 <div className="container">
-<div className="leftside"></div>
+<div className="leftside">zdfgzdfgzdg</div>
 <div className="news-box">
 <div className='fixed'>
 <div className="header">
@@ -704,6 +704,6 @@ return (
 
 </div>
 
-</>
+
   )
 }
